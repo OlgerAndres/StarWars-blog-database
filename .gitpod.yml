@@ -8,3 +8,7 @@ tasks:
         pipenv install;
         pipenv run start;
     - command: python3 welcome.py
+
+vscode:
+  extensions:
+    - kevinrose.vsc-python-indent@1.12.0:NOHaOm1IToFrG4fit4+hUw==
